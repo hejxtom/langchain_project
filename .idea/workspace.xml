@@ -5,41 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第一章">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/langchain_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/langchain_code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/02-model-init-params.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/03-model-init-ollama.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/04-model-invoke.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/05-model-stream-batch.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/.env" beforeDir="false" afterPath="$PROJECT_DIR$/base/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/02-load.csv" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/02-load.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/03-load.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/03-load.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/03-response.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/03-response.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/06-load.md" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/06-load.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/07-load.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/07-load.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun_param.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun_retun.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun_retun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/08-param_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-param_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/09-ai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/09-ai.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/09-ai1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/09-ai1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/10-test_doc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/10-test_doc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/11-langchain.md" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/11-langchain.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/asset/load/12-test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/12-test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter01_summary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter01_summary/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter02_model/01-model-init-online.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-abatch的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-abatch的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-ainvoke的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-ainvoke的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-astream的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-astream的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/02-tool_invoke_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/02-tool_invoke_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter06-structured_output/05-fake_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter06-structured_output/05-fake_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/call_times_with_jitter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/call_times_with_jitter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/fake_deepseek_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/fake_deepseek_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/knowledge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/knowledge.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/todo_workspace/my_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/todo_workspace/my_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/todo_workspace/test_my_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/todo_workspace/test_my_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chapter01_summary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter01_summary/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,30 +98,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/WD_BLACK/HejxCode/code/langchain_code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter02_model",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/chapter02_model" />
       <recent name="F:\HejxCode\code\langchain_code\project\chapter02_model" />
       <recent name="F:\HejxCode\code\langchain_code" />
       <recent name="F:\HejxCode\code\langchain_code\project" />
@@ -245,7 +216,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.8665.309" />
+        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
       </set>
     </attachedChunks>
   </component>
@@ -258,7 +230,8 @@
       <updated>1783478633482</updated>
       <workItem from="1783478634499" duration="4930000" />
       <workItem from="1784708778507" duration="1112000" />
-      <workItem from="1784789737903" duration="1476000" />
+      <workItem from="1784789737903" duration="1788000" />
+      <workItem from="1784791588389" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -284,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783480730769</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一章">
+      <option name="closed" value="true" />
+      <created>1784791295074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784791295074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +274,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加gitignore文件" />
     <MESSAGE value="添加教程文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加教程文件" />
+    <MESSAGE value="第一章" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
