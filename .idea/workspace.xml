@@ -4,11 +4,43 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="添加教程文件">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter01_summary/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
+    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第一章">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/langchain_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/langchain_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/.env" beforeDir="false" afterPath="$PROJECT_DIR$/base/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/02-load.csv" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/02-load.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/03-load.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/03-load.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/03-response.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/03-response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/06-load.md" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/06-load.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/07-load.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/07-load.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/08-fun_retun.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-fun_retun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/08-param_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/08-param_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/09-ai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/09-ai.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/09-ai1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/09-ai1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/10-test_doc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/10-test_doc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/11-langchain.md" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/11-langchain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/asset/load/12-test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/asset/load/12-test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter01_summary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter01_summary/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter02_model/01-model-init-online.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-abatch的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-abatch的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-ainvoke的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-ainvoke的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter02_model/06-astream的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter02_model/06-astream的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/02-tool_invoke_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/02-tool_invoke_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter06-structured_output/05-fake_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter06-structured_output/05-fake_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/call_times_with_jitter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/call_times_with_jitter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/fake_deepseek_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/fake_deepseek_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/knowledge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/knowledge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/todo_workspace/my_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/todo_workspace/my_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/todo_workspace/test_my_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/todo_workspace/test_my_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter01_summary/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter01_summary/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,67 +59,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0003199202646138" />
-      <entry key="MS500" value="1.1999900320831882" />
-      <entry key="S2" value="1.6687319723860248" />
-      <entry key="S5" value="1.8513356793828564" />
-      <entry key="S10" value="1.9226785352347027" />
-      <entry key="S30" value="1.9735317933568894" />
-      <entry key="S60" value="1.9866771474787939" />
-      <entry key="M2" value="1.9933162373981377" />
-      <entry key="M5" value="1.9973211573599499" />
-      <entry key="M10" value="2.0002673465193332" />
-      <entry key="M15" value="2.0554789837104908" />
-      <entry key="M30" value="4.01221163493866" />
-      <entry key="H1" value="14.098862493060237" />
-      <entry key="H2" value="31.70608216627855" />
-      <entry key="H4" value="48.562651671038616" />
-      <entry key="D1" value="69.72810981562982" />
-      <entry key="W1" value="74.22243837512254" />
+      <entry key="MS100" value="1.0000001295489083" />
+      <entry key="MS500" value="1.0437234125985029" />
+      <entry key="S2" value="1.729749262766867" />
+      <entry key="S5" value="2.6253521147727876" />
+      <entry key="S10" value="3.3581584374325586" />
+      <entry key="S30" value="4.592379225681061" />
+      <entry key="S60" value="5.183810695766466" />
+      <entry key="M2" value="5.558200534253124" />
+      <entry key="M5" value="5.81433890422698" />
+      <entry key="M10" value="5.9071479392428845" />
+      <entry key="M15" value="5.991639819861028" />
+      <entry key="M30" value="7.954849108345453" />
+      <entry key="H1" value="18.00476432882852" />
+      <entry key="H2" value="35.60184494981961" />
+      <entry key="H4" value="52.48312966783022" />
+      <entry key="D1" value="73.7091174136358" />
+      <entry key="W1" value="78.21955102907536" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="5.378934369159481E-257" />
-      <entry key="S30" value="3.77484173870613E-86" />
-      <entry key="S60" value="1.942895194987658E-43" />
-      <entry key="M2" value="4.407828484625574E-22" />
-      <entry key="M5" value="2.8687313193373216E-9" />
-      <entry key="M10" value="5.356053882605478E-5" />
-      <entry key="M15" value="0.0014208992715720118" />
-      <entry key="M30" value="0.03769481756915679" />
-      <entry key="H1" value="0.19415153249242406" />
-      <entry key="H2" value="0.44062629573417894" />
-      <entry key="H4" value="0.6637968783703181" />
-      <entry key="D1" value="0.9339834935866581" />
-      <entry key="W1" value="0.9902907968248585" />
+      <entry key="S10" value="5.185016143774493E-258" />
+      <entry key="S30" value="1.730812558225148E-86" />
+      <entry key="S60" value="1.315603495824311E-43" />
+      <entry key="M2" value="3.627124888702222E-22" />
+      <entry key="M5" value="2.653536120800914E-9" />
+      <entry key="M10" value="5.151248509634257E-5" />
+      <entry key="M15" value="0.0013844427497175119" />
+      <entry key="M30" value="0.03720810059271383" />
+      <entry key="H1" value="0.19289401388512253" />
+      <entry key="H2" value="0.43919701033263264" />
+      <entry key="H4" value="0.662719405429351" />
+      <entry key="D1" value="0.9337306493628638" />
+      <entry key="W1" value="0.9902524941652001" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9267606953818714" />
-      <entry key="MS500" value="1.1616431381921875" />
-      <entry key="S2" value="1.6446147254585592" />
-      <entry key="S5" value="1.8393726535619936" />
-      <entry key="S10" value="1.9162418719062668" />
-      <entry key="S30" value="1.971277819481784" />
-      <entry key="S60" value="1.9855361297310228" />
-      <entry key="M2" value="1.9927421840182447" />
-      <entry key="M5" value="1.9970906834322404" />
-      <entry key="M10" value="2.0002053757030684" />
-      <entry key="M15" value="2.0568199233563598" />
-      <entry key="M30" value="4.049821427266106" />
-      <entry key="H1" value="14.292863840747078" />
-      <entry key="H2" value="32.146543074906305" />
-      <entry key="H4" value="49.22632351947694" />
-      <entry key="D1" value="70.6620637271118" />
-      <entry key="W1" value="75.21272468245266" />
+      <entry key="MS100" value="0.9526381197580837" />
+      <entry key="MS500" value="1.0335218043562038" />
+      <entry key="S2" value="1.7250323667429732" />
+      <entry key="S5" value="2.6222891167679707" />
+      <entry key="S10" value="3.355729266134064" />
+      <entry key="S30" value="4.590643227080644" />
+      <entry key="S60" value="5.182672299420306" />
+      <entry key="M2" value="5.557541466239456" />
+      <entry key="M5" value="5.814050107049275" />
+      <entry key="M10" value="5.90705037402206" />
+      <entry key="M15" value="5.992921009902286" />
+      <entry key="M30" value="7.991960591556505" />
+      <entry key="H1" value="18.197502781234835" />
+      <entry key="H2" value="36.04087393370481" />
+      <entry key="H4" value="53.14572265809043" />
+      <entry key="D1" value="74.64281822416632" />
+      <entry key="W1" value="79.20979899609911" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GCbjYdfKSaA4sDbh5a22be4149" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,28 +128,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/HejxCode/code/langchain_code/project/chapter02_model",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/WD_BLACK/HejxCode/code/langchain_code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\HejxCode\code\langchain_code\project\chapter02_model" />
@@ -213,8 +245,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.25134.203" />
-        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -226,6 +257,8 @@
       <option name="presentableId" value="Default" />
       <updated>1783478633482</updated>
       <workItem from="1783478634499" duration="4930000" />
+      <workItem from="1784708778507" duration="1112000" />
+      <workItem from="1784789737903" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
