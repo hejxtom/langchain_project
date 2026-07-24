@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第一章">
-      <change afterPath="$PROJECT_DIR$/project/chapter02_model/02-model-init-params.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter02_model/03-model-init-ollama.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter02_model/04-model-invoke.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter02_model/05-model-stream-batch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/06-abatch的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/06-ainvoke的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/06-astream的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter02_model/07-profile-initparams-config.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter03_langsmith/01-langsmith-test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter02_model/01-model-init-online.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter02_model",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter04_messages_prompt",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,11 +123,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/chapter04_messages_prompt" />
+      <recent name="$PROJECT_DIR$/project" />
       <recent name="$PROJECT_DIR$/project/chapter02_model" />
       <recent name="F:\HejxCode\code\langchain_code\project\chapter02_model" />
       <recent name="F:\HejxCode\code\langchain_code" />
-      <recent name="F:\HejxCode\code\langchain_code\project" />
-      <recent name="F:\HejxCode\code\langchain_code\base" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test (1)">
@@ -231,7 +232,9 @@
       <workItem from="1783478634499" duration="4930000" />
       <workItem from="1784708778507" duration="1112000" />
       <workItem from="1784789737903" duration="1788000" />
-      <workItem from="1784791588389" duration="3585000" />
+      <workItem from="1784791588389" duration="3863000" />
+      <workItem from="1784879614460" duration="20000" />
+      <workItem from="1784879639379" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -265,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784791295074</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一章">
+      <option name="closed" value="true" />
+      <created>1784795722431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784795722431</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +295,31 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
+          <line>302</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
+          <line>325</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
+          <line>328</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
+          <line>334</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
+          <line>337</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
