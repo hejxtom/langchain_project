@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第四章">
-      <change afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/03-ChatPromptTemplate的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/04-ChatPromptTemplate的高级特性.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/image_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/03-ChatPromptTemplate的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/03-ChatPromptTemplate的使用.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/04-ChatPromptTemplate的高级特性.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/04-ChatPromptTemplate的高级特性.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +232,7 @@
       <workItem from="1784791588389" duration="3863000" />
       <workItem from="1784879614460" duration="20000" />
       <workItem from="1784879639379" duration="1624000" />
-      <workItem from="1785116082985" duration="2050000" />
+      <workItem from="1785116082985" duration="2558000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -283,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784881251387</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第四章">
+      <option name="closed" value="true" />
+      <created>1785118147372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1785118147372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,46 +310,6 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
-          <line>302</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
-          <line>325</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
-          <line>328</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
-          <line>334</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb</url>
-          <line>337</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb</url>
-          <line>76</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb</url>
-          <line>67</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb</url>
-          <line>74</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
