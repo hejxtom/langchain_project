@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第四章">
-      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/01-messages的使用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/02-content_blocks的使用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/03-ChatPromptTemplate的使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/03-ChatPromptTemplate的使用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/chapter04_messages_prompt/04-ChatPromptTemplate的高级特性.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/chapter04_messages_prompt/04-ChatPromptTemplate的高级特性.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/01-Tool使用的概述.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/02-tool_invoke_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/03-使用@tool装饰器定义工具.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/04-工具的应用案例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/05-tool_choice的使用.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/01-Pydantic格式的使用.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/02-TypedDict格式的使用.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/03-JSON Schema格式的使用.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/04-@dataclass格式的使用.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/05-fake_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/05-四种模式的验证.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/06-获取结构化结果方式.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/01-Tool使用的概述.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/01-Tool使用的概述.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,35 +108,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter04_messages_prompt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter06-structured_output",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/chapter06-structured_output" />
+      <recent name="$PROJECT_DIR$/project/chapter05-tools" />
       <recent name="$PROJECT_DIR$/project/chapter04_messages_prompt" />
       <recent name="$PROJECT_DIR$/project" />
       <recent name="$PROJECT_DIR$/project/chapter02_model" />
-      <recent name="F:\HejxCode\code\langchain_code\project\chapter02_model" />
-      <recent name="F:\HejxCode\code\langchain_code" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test (1)">
@@ -232,7 +244,8 @@
       <workItem from="1784791588389" duration="3863000" />
       <workItem from="1784879614460" duration="20000" />
       <workItem from="1784879639379" duration="1624000" />
-      <workItem from="1785116082985" duration="2558000" />
+      <workItem from="1785116082985" duration="2586000" />
+      <workItem from="1785220800779" duration="5201000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -290,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785118147372</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第四章">
+      <option name="closed" value="true" />
+      <created>1785118655792</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1785118655792</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
