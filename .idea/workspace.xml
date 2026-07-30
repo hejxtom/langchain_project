@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第四章">
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/01-Tool使用的概述.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/02-tool_invoke_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/03-使用@tool装饰器定义工具.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/04-工具的应用案例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter05-tools/05-tool_choice的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/01-Pydantic格式的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/02-TypedDict格式的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/03-JSON Schema格式的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/04-@dataclass格式的使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/05-fake_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/05-四种模式的验证.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter06-structured_output/06-获取结构化结果方式.ipynb" afterDir="false" />
+    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第六章">
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/01-Agent的基本用法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/02-Agent的高级用法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/03-Agent的高级用法-ToolStrategy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/04-Agent的高级用法-错误处理机制.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/05-Agent的高级用法-流式输出.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/06-实战：多功能智能助手.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/01-Tool使用的概述.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/01-Tool使用的概述.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter05-tools/02-不使用@tool的方式定义工具.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter07-Agents/01-Agent的基本用法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter07-Agents/01-Agent的基本用法.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +112,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter06-structured_output",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter07-Agents",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -245,7 +237,9 @@
       <workItem from="1784879614460" duration="20000" />
       <workItem from="1784879639379" duration="1624000" />
       <workItem from="1785116082985" duration="2586000" />
-      <workItem from="1785220800779" duration="5201000" />
+      <workItem from="1785220800779" duration="5629000" />
+      <workItem from="1785310937115" duration="1996000" />
+      <workItem from="1785394878431" duration="2844000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -311,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785118655792</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第六章">
+      <option name="closed" value="true" />
+      <created>1785226126535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1785226126535</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +324,8 @@
     <MESSAGE value="添加教程文件" />
     <MESSAGE value="第一章" />
     <MESSAGE value="第四章" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四章" />
+    <MESSAGE value="第六章" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
