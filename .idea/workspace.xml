@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第六章">
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/01-Agent的基本用法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/02-Agent的高级用法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/03-Agent的高级用法-ToolStrategy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/04-Agent的高级用法-错误处理机制.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/05-Agent的高级用法-流式输出.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter07-Agents/06-实战：多功能智能助手.ipynb" afterDir="false" />
+    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第七章">
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/02-HumanInTheLoopMiddleware中间件.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/03-PIIMiddleware中间件.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/04-TodoListMiddleware中间件.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/05-其它内置中间件.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/06-自定义中间件-Node-style hooks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/07-自定义中间件-Wrap-style hooks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/08-hook函数执行顺序.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter07-Agents/01-Agent的基本用法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter07-Agents/01-Agent的基本用法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,23 +114,23 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter07-Agents",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter08-Middleware",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/chapter08-Middleware" />
+      <recent name="$PROJECT_DIR$/project/chapter07-Agents" />
       <recent name="$PROJECT_DIR$/project/chapter06-structured_output" />
       <recent name="$PROJECT_DIR$/project/chapter05-tools" />
       <recent name="$PROJECT_DIR$/project/chapter04_messages_prompt" />
-      <recent name="$PROJECT_DIR$/project" />
-      <recent name="$PROJECT_DIR$/project/chapter02_model" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test (1)">
@@ -223,6 +225,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="" />
@@ -239,7 +244,8 @@
       <workItem from="1785116082985" duration="2586000" />
       <workItem from="1785220800779" duration="5629000" />
       <workItem from="1785310937115" duration="1996000" />
-      <workItem from="1785394878431" duration="2844000" />
+      <workItem from="1785394878431" duration="3545000" />
+      <workItem from="1785653176976" duration="4864000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -313,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785226126535</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第七章">
+      <option name="closed" value="true" />
+      <created>1785397747778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1785397747778</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +339,8 @@
     <MESSAGE value="第一章" />
     <MESSAGE value="第四章" />
     <MESSAGE value="第六章" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六章" />
+    <MESSAGE value="第七章" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
