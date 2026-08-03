@@ -4,17 +4,42 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第七章">
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/02-HumanInTheLoopMiddleware中间件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/03-PIIMiddleware中间件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/04-TodoListMiddleware中间件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/05-其它内置中间件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/06-自定义中间件-Node-style hooks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/07-自定义中间件-Wrap-style hooks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/chapter08-Middleware/08-hook函数执行顺序.ipynb" afterDir="false" />
+    <list default="true" id="9e20551f-36d0-4578-ad8f-0ac52ea74b5a" name="更改" comment="第八章">
+      <change afterPath="$PROJECT_DIR$/project/chapter09-memory/01-agent的记忆测试.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter09-memory/02-短期记忆.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter09-memory/03-记忆治理策略.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/01-文档加载器.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/02-文档切分器.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/03-文档嵌入模型.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/04-sample.pdf_file_0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/9b4a7789-dcd7-4f31-b45c-361ca29f17d5_content_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/9b4a7789-dcd7-4f31-b45c-361ca29f17d5_content_list_v2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/9b4a7789-dcd7-4f31-b45c-361ca29f17d5_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/9b4a7789-dcd7-4f31-b45c-361ca29f17d5_origin.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/full.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/1e0c89a22a3b6b71d07354f399459aeea8ce4e5dd570b2b284692b30c35f716b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/1edbf92388d9c0ed3ab903c4a049ee1090b0013d4dda0d9321d934ca0f69a95a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/25777e0a43203ea21a6f6509b55a80a0743fef01b8c7b575a98fecb657cb7beb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/2f5c56364b0392c6283498bb80e1b67aec59c71399c0044b2cf0e1e7de419bb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/38c02d448f618423ecf39d0efe95dcaeba5bc237c77237f3722d5b0b5464aa48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/41b68cfb419c27eb9cd47bde93511eda1f0b7724cf44781565f3f6812c159bce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/4b73a81d61bff4f4d3a60f0fd70f7a9e8d8517a1f920ead16167fbe49342fe94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/5315d8f4277c07a65adac83742ee3f513635aec754f7ad9d819f1df980d0c213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/5440b94dd6c5172421373a6314f2bab47f72b918af40864f411051fff7ddf07f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/6e28b9b57a52d2029a0063d9f3830fcf0f6e5774c76cb1afef4d8a788add2aa4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/875f808722266b797a807f917a8d0b30e4f7364820f7bf1c5ca26e970d52777d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/888d1b0e7aef17230f6d81b8ff215e69cc0518aa03c06eff5e8e0f65ad1bcdee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/9905eef09e23b688b1da50eb3b2631db261882b7f6e82f283195f984775b4c67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/a3dbc6a73b50735125ba7e0715fb2418bf4368dab26a276854dd62eb24763256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/a997f447912a01fa6e76c7092d8308e2296b357d078e574bfd9362e8a3863357.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/b0c70c059560e0540e7e3a5474675cc6c43703df16a6f4f588c22d5b7312f395.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/c83efc505b14e1cf81a570e85f72c5a14a36cd4f45f227f4e2bbb8f4978380e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/dabda7591bf8b1d4447f5c080dff62f6319980c28a75113ff62997b70b1dfbac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/e9f31df9faed5873414d9aecbfcd207d18d70d87e6e5d8293317be116a6a95e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/edd24dcc22313f3874dc577956670616d5d97377124150641f53847887a25d31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/images/ee47d0fef4b131c55859c6602e41a29633c241f23a846f00305d96d1072774ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/chapter10-RAG/parsed_files/layout.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base/chapter08-Middleware/01-SummarizationMiddleware中间件.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +139,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter08-Middleware",
+    "last_opened_file_path": "/Volumes/WD_BLACK/HejxCode/code/langchain_code/project/chapter10-RAG",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -126,11 +151,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/chapter10-RAG" />
+      <recent name="$PROJECT_DIR$/project/chapter09-memory" />
       <recent name="$PROJECT_DIR$/project/chapter08-Middleware" />
       <recent name="$PROJECT_DIR$/project/chapter07-Agents" />
       <recent name="$PROJECT_DIR$/project/chapter06-structured_output" />
-      <recent name="$PROJECT_DIR$/project/chapter05-tools" />
-      <recent name="$PROJECT_DIR$/project/chapter04_messages_prompt" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test (1)">
@@ -245,7 +270,8 @@
       <workItem from="1785220800779" duration="5629000" />
       <workItem from="1785310937115" duration="1996000" />
       <workItem from="1785394878431" duration="3545000" />
-      <workItem from="1785653176976" duration="4864000" />
+      <workItem from="1785653176976" duration="4900000" />
+      <workItem from="1785721082781" duration="5454000" />
     </task>
     <task id="LOCAL-00001" summary="添加gitignore文件">
       <option name="closed" value="true" />
@@ -327,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785397747778</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="第八章">
+      <option name="closed" value="true" />
+      <created>1785658065881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1785658065881</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +374,8 @@
     <MESSAGE value="第四章" />
     <MESSAGE value="第六章" />
     <MESSAGE value="第七章" />
-    <option name="LAST_COMMIT_MESSAGE" value="第七章" />
+    <MESSAGE value="第八章" />
+    <option name="LAST_COMMIT_MESSAGE" value="第八章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
